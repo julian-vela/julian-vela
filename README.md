@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/brennankbrown)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://www.linkedin.com/in/juli%C3%A1n-andr%C3%A9s-vela-salazar-46a5441b3/)
 [![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://wandernotebook.com)](https://ingenierojulian.com)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:mail@brennanbrown.ca)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:ingjavs001@gmail.com)
 
 
 <p align="center"> :octocat: <b><a href="https://ingenierojulian.com">Website</a> / <a href="https://ingenierojulian.com/wp-content/uploads/2020/09/JULIAN-ANDRES-VELA-CV.pdf">Resume</a> / <a href="https://ingenierojulian.com/#works-e">Projects</a></b> :octocat: </p>
