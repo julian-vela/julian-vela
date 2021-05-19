@@ -10,7 +10,7 @@
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Julián Andrés Vela. I'm a 28-year-old . :coffee:
+Hey there! :smile: My name is Julián Andrés Vela. Web developer. Dynamic, creative systems engineer with skills and abilities in analysis, diagnosis and design, implementing and developing information systems. With a vision for the future focused on Research, Planning and Administration with adaptability to new technologies; having a high degree of sense of responsibility and commitment. I have extensive experience in website design, creation and customization, also in web and mobile app development, managing the FrontEnd and BackEnd. :coffee:
 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
